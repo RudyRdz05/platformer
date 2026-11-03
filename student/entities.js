@@ -60,7 +60,7 @@ const ENEMY_TYPES = {
 
   flyer: {
     movement: "hover",
-    speed: 70,
+    speed: 80,
     width: 22,
     height: 16,
     color: "#b07cff",
@@ -75,7 +75,7 @@ const ENEMY_TYPES = {
     speed: 40,
     width: 18,
     height: 18,
-    color: "#ff9f43",
+    color: "#ff43cd",
     stompable: true,
     points: 200,
     turnsAtLedges: true,
