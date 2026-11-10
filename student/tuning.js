@@ -46,7 +46,7 @@ const TUNING = {
   AIR_FRICTION: 500,
 
   // How hard you push off the ground when you jump. try 400 to 900
-  JUMP_VELOCITY: 620,
+  JUMP_VELOCITY: 780,
 
 
   /* ===== HOLE 2 of 7 — The feel you can't see ===========================
